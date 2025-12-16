@@ -7,13 +7,11 @@
 An interactive Artificial Intelligence application that evolves a solution to a complex maze using **Genetic Algorithms (GA)**. Built with **Python** and **Streamlit**, this project visualizes how evolutionary concepts (natural selection, mutation, and crossover) can be applied to pathfinding problems.
 
 ## 📸 Demo
+<img width="1912" height="900" alt="Screenshot 2025-12-16 200126" src="https://github.com/user-attachments/assets/e7d418b2-80e7-4481-a65c-6025a6c879c4" />
 
-![Project Screenshot](demo_screenshot.png)
-*(The AI finding the optimal path through the maze in Generation 21)*
 
 ## 🚀 Live Demo
-[**Click here to run the app live!**](YOUR_STREAMLIT_APP_URL_HERE)
-*(Replace this text with your actual Streamlit deployment link after deploying)*
+[**Click here to run the app live!**]()
 
 ## ✨ Features
 * **Real-time Visualization:** Watch the "fittest" individual of each generation attempt the maze in real-time.
