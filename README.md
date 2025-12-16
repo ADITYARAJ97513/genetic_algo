@@ -11,7 +11,7 @@ An interactive Artificial Intelligence application that evolves a solution to a 
 
 
 ## 🚀 Live Demo
-[**Click here to run the app live!**]()
+[**Click here to run the app live!**](https://adityaraj97513-genetic-algo-app-fjyauy.streamlit.app/)
 
 ## ✨ Features
 * **Real-time Visualization:** Watch the "fittest" individual of each generation attempt the maze in real-time.
